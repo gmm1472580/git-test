@@ -7,11 +7,6 @@ public class TestClass {
         System.out.println("hello git");
 
     }
-    public void test(){
-        //测试git
-        int i=0;
-        i+=10;
-        System.out.println(i);
-    }
+
 
 }
